@@ -154,7 +154,7 @@ const Projects = () => {
               whileInView={{ opacity: 1, y: 0 }}
               transition={{ duration: 0.5, delay: 0.1 * index }}
               viewport={{ once: true }}
-              className="bg-card-bg border border-accent/20 rounded-lg p-6 hover:border-accent/50 transition-all hover:transform hover:scale-[1.02] flex flex-col"
+              className="bg-card-bg border border-accent/20 rounded-lg p-6 hover:border-accent/50 transition-all hover:scale-[1.02] flex flex-col"
             >
               {/* Badges Header */}
               <div className="flex flex-wrap gap-2 mb-4">
