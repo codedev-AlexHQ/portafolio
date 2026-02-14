@@ -24,14 +24,13 @@ const Projects = () => {
     {
       title: "ULenguage - Aplicación de Traducción y Guía Cultural Quechua",
       description:
-        "Proyecto de tesis: Aplicación móvil multiplataforma para facilitar la comunicación entre turistas y comunidades quechuas en Cusco. Implementa traducción trilingüe (Español-Inglés-Quechua cusqueño) mediante OCR, diccionario interactivo con pronunciación de audio, guía cultural contextual y modo offline. Arquitectura de microservicios con backend en Node.js/Express desplegado en Vercel y frontend móvil en Flutter.",
+        "Proyecto de tesis: Aplicación móvil multiplataforma para facilitar la comunicación entre turistas y comunidades quechuas en Cusco. Implementa traducción trilingüe (Español-Inglés-Quechua cusqueño) mediante OCR, diccionario interactivo con pronunciación de audio, guía cultural contextual y modo offline. Arquitectura de microservicios con backend en Node.js/Express y frontend móvil en Flutter.",
       technologies: ["Flutter", "Dart", "Node.js", "Express", "JavaScript", "PostgreSQL", "OCR", "Vercel"],
       githubUrls: [
         { label: "Backend", url: "https://github.com/Tomas-coder-dev/ULenguage-Backend" },
         { label: "Frontend", url: "https://github.com/Tomas-coder-dev/ULenguage-Frontend" },
         { label: "Admin Panel", url: "https://github.com/codedev-AlexHQ/ULenguage-Admin" },
       ],
-      liveUrl: "https://u-lenguage-backend.vercel.app",
       category: "Full-Stack",
       featured: true,
       badge: "Proyecto de Tesis",
@@ -74,7 +73,6 @@ const Projects = () => {
         { label: "Backend", url: "https://github.com/harold18m/multilimp-backend" },
         { label: "Frontend", url: "https://github.com/harold18m/multilimp-frontend" },
       ],
-      liveUrl: "https://multilimpsac.vercel.app",
       category: "Full-Stack",
       featured: true,
       badge: "Experiencia Laboral",
