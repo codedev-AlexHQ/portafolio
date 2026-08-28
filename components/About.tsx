@@ -9,7 +9,7 @@ const About = () => {
       icon: <Briefcase className="w-6 h-6 text-accent" />,
       title: "Desarrollador de Software",
       company: "Cimark Comunicación Corporativa S.A.C.",
-      period: "Feb. 2025 - May. 2025",
+      period: "Feb. 2024 - Ene. 2025",
       description: [
         "Migración de sistema Angular a Node.js con Express (backend) y React (frontend)",
         "Modernización de arquitectura y mejora de velocidad de respuesta",
